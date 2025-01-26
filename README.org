@@ -4,6 +4,6 @@ A library to invoke the native system file dialog to select or create files.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shinmera/file-select.git |
-| commit  | b952d8b                                         |
+| commit  | 3442145                                         |
 | systems | file-select                                     |
 |---------+-------------------------------------------------|
