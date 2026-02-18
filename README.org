@@ -3,7 +3,7 @@
 A library to invoke the native system file dialog to select or create files.
 
 |---------+-------------------------------------------------|
-| source  | git:https://github.com/Shinmera/file-select.git |
-| commit  | ff524f7                                         |
+| source  | git:https://codeberg.org/shinmera/file-select.git |
+| commit  | 0000000                                         |
 | systems | file-select                                     |
 |---------+-------------------------------------------------|
